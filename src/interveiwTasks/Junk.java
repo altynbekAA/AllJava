@@ -41,6 +41,7 @@ public class Junk {
 
 
 	
+	int [] int2 = new int[12];
 	
 	
 	}
